@@ -24,7 +24,7 @@ html,body {
 .navbar {
   background-color: #2c5f4f;
   padding: 0;
-  position: sticky;
+  position: fixed;
   top: 0;
   z-index: 100;
 }
